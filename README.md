@@ -16,9 +16,9 @@
 
 Hello! I'm **Radhapriya**, a passionate Data Scientist, eager to transform complex problems into simple and efficient solutions.
 
-- My background includes Python, Java, SQL, Machine Learning, Flask, Data Visualisation
+- My background includes Python, Java, SQL, Machine Learning, Flask, Data Visualisation, PowerBI, Tableau.
 - I've worked on a variety of projects, always keen to learn and grow.
-- Ask me about: **[Python, Java, SQL, Machine Learning, Artificial Intelligence, Data Visualisation]**
+- Ask me about: **[Python, Java, SQL, Machine Learning, Artificial Intelligence, Data Visualisation, PowerBI, Tableau.]**
 
 📫 How to reach me: koruproluradhapriya@gmail.com
 
@@ -26,9 +26,9 @@ Hello! I'm **Radhapriya**, a passionate Data Scientist, eager to transform compl
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/radha-priya-koruprolu-591443350)
 [![Kaggle](https://img.shields.io/badge/kaggle-blue?logo=kaggle&style=for-the-badge)](https://kaggle.com/your-kaggle)
-[![LeetCode](https://img.shields.io/badge/leetcode-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/your-leetcode)
+[![LeetCode](https://img.shields.io/badge/leetcode-orange?logo=leetcode&style=for-the-badge)](http://leetcode.com/u/Radhapriya/)
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- Banner / Welcome Section -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 A passionate [Your Role, e.g. Data Scientist]</h3>
+<h1 align="center">Hi there 👋, I'm Radhapriya</h1>
+<h3 align="center">🚀 A passionate Data Scientist </h3>
 
 <!-- Badges for Main Skills -->
 <p align="center">
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-Hello! I'm **[Your Name]**, a passionate [Your Role, e.g. Data Scientist], eager to transform complex problems into simple and efficient solutions.
+Hello! I'm **Radhapriya**, a passionate Data Scientist, eager to transform complex problems into simple and efficient solutions.
 
-- My background includes **[Your Languages & Skills: e.g. Python, Java, SQL, Machine Learning, Flask]**
+- My background includes Python, Java, SQL, Machine Learning, Flask, Data Visualisation
 - I've worked on a variety of projects, always keen to learn and grow.
-- Ask me about: **[Python, Java, SQL, Machine Learning, Artificial Intelligence]**
+- Ask me about: **[Python, Java, SQL, Machine Learning, Artificial Intelligence, Data Visualisation]**
 
-📫 How to reach me: [your-email@gmail.com]
+📫 How to reach me: koruproluradhapriya@gmail.com
 
 ---
 

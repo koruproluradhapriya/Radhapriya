@@ -1,5 +1,7 @@
 <!-- Banner / Welcome Section -->
-<h1 align="center">Hi there 👋, I'm Radhapriya</h1>
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radhapriya
+</h1>
 <h3 align="center">🚀 A passionate Data Scientist </h3>
 
 <!-- Badges for Main Skills -->
@@ -20,7 +22,7 @@ Hello! I'm *Radhapriya*, a passionate Data Scientist, eager to transform complex
 - I've worked on a variety of projects, always keen to learn and grow.
 - Ask me about: *[Python, Java, SQL, Machine Learning, Artificial Intelligence, Data Visualisation, PowerBI, Tableau.]*
 
-📫 How to reach me: koruproluradhapriya@gmail.com
+📫 How to reach me: [koruproluradhapriya@gmail.com](mailto:koruproluradhapriya@gmail.com)
 
 ---
 
